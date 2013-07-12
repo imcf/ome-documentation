@@ -1,0 +1,84 @@
+Collaborating with data
+=======================
+
+OMERO.insight facilitates collaboration by allowing you to view your image data with other users in the group.
+
+
+Viewing group members data
+--------------------------
+
+|
+
+#. If there is more than one person is using OMERO in your laboratory, OMERO allows you to view data belonging to other members in your laboratory group. 
+
+   |
+
+   Screenshot
+
+   |
+
+
+#. Click on the icon to **Select users and their data**. 
+
+   Check the **tick box** of a user to display their data in the data tree.
+
+   Click **Apply** to finish.
+
+   |
+
+   Screenshot
+
+   |
+
+#. Selected users can be viewed in the data tree.
+
+   |
+
+   Screenshot
+
+   |
+
+Viewing rendering settings by group members
+-------------------------------------------
+
+When viewing your images OMERO provides the ability to switch between your own rendering settings of the image and view the rendering settings of 
+the other members of the laboratory who have viewed the image and applied their own rendering settings. 
+
+|
+
+#. Click on an image to open the image viewer. 
+
+   Click on the **Saved By** icon to display the rendering controls. 
+ 
+   Clicking this icon provides a list of user names who have viewed the image.
+   
+   |
+
+   Screenshot
+
+   |
+   
+   .. note:: **Please note** that the **Saved By** list will only be populated if other members of your laboratory group have viewed your image.
+   
+   
+#. Clicking on the different names in the list allows you to view your image with the rendering settings used by that user. 
+
+   |
+
+    Screenshot
+
+   |   
+   
+    
+   
+#. To save the rendering settings of someone who has viewed your image you may click on the **save the current settings** icon. 
+
+   OMERO also provides the ability to copy and paste rendering settings of an image across  multiple images. This is described in the copy and paste rendering settings in`Viewing images`_. 
+
+   Alternatively you can close the image viewer and choose **not** to save any changes made to the rendering settings to the image. 
+
+   |
+
+    Screenshot
+
+   |  
