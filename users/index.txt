@@ -12,19 +12,17 @@ Introduction
 
     omero-overview
     community-resources
+    client-overview
 
-
-************
-Client Usage
-************
+**********
+Quickstart
+**********
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :titlesonly:
 
-    clients-overview
     clients-getting-started
-    clients-memory
 
 OMERO.insight tutorials
 =======================
@@ -32,37 +30,33 @@ OMERO.insight tutorials
 .. toctree::
     :maxdepth: 2
     :titlesonly:
-
+   
     client-tutorials/insight/insight-import
-    client-tutorials/insight/insight-managing-data
+    client-tutorials/insight/insight-managing-data	
     client-tutorials/insight/insight-view-images
     client-tutorials/insight/insight-measuring
     client-tutorials/insight/insight-export-figures
     client-tutorials/insight/insight-scripts
     client-tutorials/insight/insight-util-scripts
+    client-tutorials/insight/insight-collaboration	
+	
+	
 
-OMERO.web tutorials
-=======================
-
-.. toctree::
-    :maxdepth: 2
-    :titlesonly:
-
-    client-tutorials/web/urls_to_data
-
-OMERO.editor tutorials
-=======================
+****************
+OMERO and ImageJ
+****************
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :titlesonly:
 
-    client-tutorials/editor/editor
-    client-tutorials/editor/editor-getting-started
+    client-tutorials/ImageJ
 
 ************
 Movie guides
 ************
 
 - :feature_plone:`The OMERO features page includes movie tutorials for many OMERO features<>`
+
+
 
