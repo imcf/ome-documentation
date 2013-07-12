@@ -4,28 +4,19 @@ Overview of OMERO
 OME Remote Objects (OMERO) is a modern client-server software platform
 for visualising, managing, and annotating scientific image data. OMERO
 also provides components for image importing, archiving, protocol
-recording, and user administration. OMERO consists of a Java server,
-several Java client applications, as well as Python and C++ bindings
-and a Django-based web application. See the OMERO :feature_plone:`feature list
-<>`.
+recording, and user administration. See the OMERO :feature_plone:`feature list  
+<>` for the full details.
 
-The OMERO server is built as a set of separate but linked subsystems.
-All imported image data is split into two types: binary pixel data is
-stored in an image repository and accessed through the Rendering Engine
-and other services, while all experimental and image metadata are stored
-within a relational database and accessed through the OMERO Metadata
-Service. The database is a representation of the :formats_plone:`OME Data
-Model <>` and is mapped to objects via
-Hibernate_.
-
+   |  
 .. figure:: /images/omero-overview.png
    :align: center
-   :figwidth: 60%
-   :width: 60%
+   :figwidth: 80%
+   :width: 80%
    :alt: Overview of OMERO
 
    Overview of OMERO
-
+   |  
+   
 The suite of Java-based tools for data visualisation and management, the
 OMERO clients, is cross-platform. To run on your computer they require
 Java 1.5 or 1.6 be installed. This is included with most modern systems
