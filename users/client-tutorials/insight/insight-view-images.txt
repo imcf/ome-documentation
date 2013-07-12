@@ -91,3 +91,38 @@ It is possible to:
 
 .. |viewer| image:: /images/icons/viewer.png
 .. |render| image:: /images/icons/render.png
+
+
+Copy and paste rendering settings
+---------------------------------
+
+To allow for the ease of use OMERO provides the ability to copy and paste rendering setting from one image to multiple images in a dataset. 
+To do this the following steps are necessary. 
+
+   |
+
+#. Click on an image to open the image viewer. 
+
+   Click on the **Saved By** icon to display the rendering controls. 
+ 
+   Make the necessary changes to the rendering settings of the image and save the current rendering settings.
+  
+   
+   |
+
+   Screenshot
+
+   |
+   
+   
+#. Select a group of image that . 
+  
+   .. note:: **Please note** that for the copy and paste settings to work the pasting of the rendering settings **Must be** with images that have the same channel settings as the original image that.
+   
+   
+   |
+
+   Screenshot
+
+   |
+   
