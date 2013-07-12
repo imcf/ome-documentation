@@ -3,7 +3,7 @@ OMERO |release|
 #############################
 
 
-    The OMERO :doc:`users/index` covers the basic usage of OMERO as well as providing training material suitable for end-users here at the Biozentrum.
+The OMERO User Documentation covers the basic usage of OMERO as well as providing training material suitable for end-users at the Biozentrum.
 
 .. only:: html
 
@@ -20,6 +20,7 @@ Additional online resources can be found at the OME website:
 
    .. image:: /images/BzLogo.png
        :width: 15%
+	   
 	   
    .. image:: /images/OmeLogo.png
 	   :width: 20%
