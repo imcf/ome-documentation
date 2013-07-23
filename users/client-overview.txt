@@ -8,7 +8,7 @@ application, running on a user's laptop or workstation, that can access
 all sets of data, and provide easy-to-use access to this data.
 
 OMERO provides a central storage server application called the *OMERO.server* 
-(located at the Biozentrum) and a series of clients, the client readily available to
+(the OMERO server is located at the Biozentrum) and a series of clients, the client readily available to
 users at the Biozentrum is *OMERO.insight*.
 All the OMERO clients run on the major operating systems (Windows, Apple, and Linux) and provide image visualisation,
 management, and annotation to users from remote locations. With a large number of OMERO.server installations worldwide, OMERO has been shown to be
@@ -95,41 +95,7 @@ Among many features, the noteworthy OMERO.insight elements are:
 - User administration.
 - Image import.
 
-.. _omero-editor: OMERO web has been hidden in the documentation as there is currently little uptake of the editor, when this changes it can shown by removing the comment formatting
 
-.. 	OMERO.editor
-	------------
-
-..
-	OMERO.editor is an editing tool designed to facilitate recording of
-	experimental metadata, for annotation of images in OMERO, where users can
-	create a "template" (for example, to describe a protocol) and then use this
-	template to create individual "experiment" files, which contain the
-	experimental metadata. A summary of the experiment can be viewed alongside
-	annotated images in OMERO.insight. This workflow makes it easy to reuse
-	protocols, and to build up a detailed description of an experiment by
-	combining several smaller protocols.
-
-.. 	.. figure:: /images/omero_editor_4_4.png
-		:align: center
-		:width: 60%
-		:alt: OMERO.editor
-
-		OMERO.editor.
-
-	.. .. figure:: /images/EditorParamsContext.png
-		:align: center
-		:width: 60%
-		:alt: OMERO.editor
-
-		OMERO.editor.
-
-..	
-
-	The OMERO.editor is part of the OMERO.insight client, but can also run as a
-	stand-alone application. OMERO.editor saves files as XML documents, which
-	makes it possible for them to be read by other software. More information can
-	be found on the :doc:`client-tutorials/editor/editor` tutorial page.
 
 .. _omero-importer:
 
