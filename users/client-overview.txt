@@ -57,7 +57,7 @@ OMERO.insight
 OMERO.insight provides a number of tools for accessing and using data in an
 OMERO Server. The figure :ref:`omero_insight_4_4_viewer` presents the
 OMERO.insight image viewer, whereas figure :ref:`omero_insight_screenshot_4_4`
-presents the user interface [1]_ [3]_. To find out more, see
+presents the user interface [1]_ [2]_. To find out more, see
 :doc:`clients-getting-started`.
 
 .. _omero_insight_4_4_viewer:
@@ -128,6 +128,4 @@ Attribution-Noncommercial-Share Alike 3.0 Unported License. For more
 information see :about_plone:`Attribution <licensing-attribution/attribution>`.
 
 .. [1] :doi:`Dantas, et al., JCB <10.1083/jcb.201012093>`
-.. [2] :doi:`Krenn, et al., JCB <10.1083/jcb.201110013>`
-.. [3] :doi:`Roscioli, et al., JCB <10.1083/jcb.201109104>`
-.. [4] :doi:`Snider, et al., JCB <10.1083/jcb.201102142>`
+.. [2] :doi:`Roscioli, et al., JCB <10.1083/jcb.201109104>`
