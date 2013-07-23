@@ -10,9 +10,9 @@ Introduction
     :maxdepth: 1
     :titlesonly:
 
-    omero-overview
-    community-resources
+    omero-overview    
     client-overview
+    community-resources
 
 **********
 Quickstart
