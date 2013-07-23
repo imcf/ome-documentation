@@ -30,7 +30,7 @@ Viewing group members data
 
    |
 
-   .. image:: /images/insight-collab2.png
+   .. image:: /images/insight-group-collaboration2.png
        :align: center
        :width: 55% 	   
 	   
@@ -40,7 +40,7 @@ Viewing group members data
 
    |
 
-   .. image:: /images/insight-collab3.png
+   .. image:: /images/insight-group-collaboration3.png
        :align: center
        :width: 55%
 
