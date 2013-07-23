@@ -13,7 +13,7 @@ This guide assumes you have never installed ImageJ before.
    |
 
    .. image:: /images/tutor/imageJWebsite.jpg
-       :width: 65%
+       :width: 60%
        :align: center
 
    |
@@ -36,7 +36,7 @@ This guide assumes you have never installed ImageJ before.
    |
 
    .. image:: /images/tutor/imageJPlugins.jpg
-       :width: 100%
+       :width: 70%
        :align: center
 
    |
@@ -104,7 +104,7 @@ This guide assumes you have never installed ImageJ before.
    |
 
    .. image:: /images/tutor/imageJInsight2.jpg
-       :width: 100%
+       :width: 80%
        :align: center
 
    |
@@ -159,7 +159,7 @@ This guide assumes you have never installed ImageJ before.
    |
 
    .. image:: /images/tutor/imageJBioformats2.jpg
-       :width: 100%
+       :width: 80%
        :align: center
 
    |
