@@ -9,32 +9,40 @@ Viewing group members data
 
 |
 
-#. If there is more than one person is using OMERO in your laboratory, OMERO allows you to view data belonging to other members in your laboratory group. 
+#. If there is more than one person using OMERO in your laboratory, OMERO allows for you to view data belonging to other members in your laboratory group. 
 
    |
 
-   Screenshot
+   .. image:: /images/insight-collab.png
+       :align: center
+       :width: 55%
 
    |
 
 
-#. Click on the icon to **Select users and their data**. 
+#. To do this in OMERO: 
+
+   Click on the icon to **Select users and their data**. 
 
    Check the **tick box** of a user to display their data in the data tree.
 
-   Click **Apply** to finish.
+   Click **Update** to finish.
 
    |
 
-   Screenshot
+   .. image:: /images/insight-collab1.png
+       :align: center
+       :width: 55% 	   
+	   
+   |
+
+#. The selected users can then be viewed in the data tree.
 
    |
 
-#. Selected users can be viewed in the data tree.
-
-   |
-
-   Screenshot
+   .. image:: /images/insight-collab2.png
+       :align: center
+       :width: 55%
 
    |
 
@@ -48,24 +56,38 @@ the other members of the laboratory who have viewed the image and applied their 
 
 #. Click on an image to open the image viewer. 
 
-   Click on the **Saved By** icon to display the rendering controls. 
+   Under the settings tab click on the **Saved By** icon to display the rendering controls. 
  
    Clicking this icon provides a list of user names who have viewed the image.
    
    |
 
-   Screenshot
-
+   .. image:: /images/insight-collab-renderingsettings1.png
+       :align: center
+       :width: 85%	   
+	   
    |
+
+#.  Clicking the **Saved By** icon provides a list of user names who have viewed the image.
    
-   .. note:: **Please note** that the **Saved By** list will only be populated if other members of your laboratory group have viewed your image.
+   |
+
+   .. image:: /images/insight-collab-renderingsettings2.png
+       :align: center
+       :width: 75%	   
+	   
+   |   
+   
+   .. note:: **Please note** that the **Saved By** list will only be populated if other members of your laboratory group have viewed that image.
    
    
 #. Clicking on the different names in the list allows you to view your image with the rendering settings used by that user. 
 
    |
 
-    Screenshot
+   .. image:: /images/insight-collab-renderingsettings3.png
+       :align: center
+       :width: 65%
 
    |   
    
@@ -73,12 +95,15 @@ the other members of the laboratory who have viewed the image and applied their 
    
 #. To save the rendering settings of someone who has viewed your image you may click on the **save the current settings** icon. 
 
-   OMERO also provides the ability to copy and paste rendering settings of an image across  multiple images. This is described in the copy and paste rendering settings in`Viewing images`_. 
+   OMERO also provides the ability to copy and paste rendering settings of an image across  multiple images. This is described in the copy and paste rendering settings in Viewing images. 
 
    Alternatively you can close the image viewer and choose **not** to save any changes made to the rendering settings to the image. 
 
    |
 
-    Screenshot
+   .. image:: /images/insight-collab-renderingsettings4.png
+       :align: center
+       :width: 75%
+
 
    |  
