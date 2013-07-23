@@ -34,6 +34,7 @@ To modify the rendering settings:
    -  reset some settings
    -  see if other users have viewed the image and what
       settings they used
+   -  To copy and paste rendering setting across multiple images see below_
 
 .. figure:: /images/insight-viewer-2rendering.png
     :width: 55%
@@ -93,6 +94,8 @@ It is possible to:
 .. |render| image:: /images/icons/render.png
 
 
+.. _below:
+
 Copy and paste rendering settings
 ---------------------------------
 
@@ -103,26 +106,39 @@ To do this the following steps are necessary.
 
 #. Click on an image to open the image viewer. 
 
-   Click on the **Saved By** icon to display the rendering controls. 
+   |
+
+   .. image:: /images/insight-copy-renderingsettings1.png
+       :align: center
+       :width: 65%
+	   
+   |
+   
+   
+#. Click on the **Saved By** icon to display the rendering controls. 
  
-   Make the necessary changes to the rendering settings of the image and save the current rendering settings.
+   Changes can be made to the rendering settings to the image, saved and then the rendering settings can be copied. 
   
    
    |
 
-   Screenshot
-
+   .. image:: /images/insight-copy-renderingsettings2.png
+       :align: center
+       :width: 65%
+	   
    |
    
    
-#. Select a group of image that . 
+#. Now select a group of image that **ALL** have the same channel settings as the image edited in step two. 
   
-   .. note:: **Please note** that for the copy and paste settings to work the pasting of the rendering settings **Must be** with images that have the same channel settings as the original image that.
+   .. note:: **Please note** that for the copy and paste settings to work the pasting of the rendering settings **must be** with images that have the same channel settings as the original image.
    
    
    |
 
-   Screenshot
+   .. image:: /images/insight-copy-renderingsettings4.png
+       :align: center
+       :width: 65%
 
    |
    
