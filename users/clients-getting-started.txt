@@ -9,11 +9,10 @@ Logging in
 
 The IMCF will provide you with your login details
 username, a password and the address of the OMERO server where your data
-will be stored. If the administrator opted to use :doc:`/sysadmins/server-ldap`
-you should be able to use your usual username and password. The
+will be stored. The Biozentrum allows you to use your usual University username and password. The
 authentication connection to the server is ALWAYS secured.
 
-.. figure:: /images/omero_insight_4_4_login.png
+.. figure:: /images/omero_insight_4_5_login.png
    :align: center
    :width: 35%
    :alt: 
