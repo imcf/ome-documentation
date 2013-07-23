@@ -154,12 +154,15 @@ Image preview
 -------------
 
 The Preview tab on the Right-hand panel provides a mini preview window
-of your image and allows you to tune some of the rendering settings
+of your image and allows you to change the rendering settings
 without having to launch the full image viewer.
 
-.. figure:: /images/insight-data-manager-11preview.png
+-  Click on **Apply to All** to apply the new rendering settings to all images in a dataset or plate, or to the selected images.
+-  Click on **Apply** to save the changes to the rendering settings.
+
+.. figure:: /images/insight-preview-managing-apply.png
    :align: center
-   :width: 35%
+   :width: 75%
    :alt: Image preview
 
 Search
