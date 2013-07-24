@@ -12,7 +12,6 @@ The OMERO User Documentation covers the basic usage of OMERO as well as providin
 
 Additional online resources can be found at the OME website:
 
-- :omero_plone:`Downloads <downloads>`
 - :feature_plone:`OMERO Features (includes movie tutorials)<>`
 - :omero_plone:`OMERO Software Screenshots <screenshots>`
 
