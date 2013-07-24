@@ -54,11 +54,9 @@ the other members of the laboratory who have viewed the image and applied their 
 
 |
 
-#. Click on an image to open the image viewer. 
+1. Click on an image to open the image viewer. 
 
    Under the settings tab click on the **Saved By** icon to display the rendering controls. 
- 
-   Clicking this icon provides a list of user names who have viewed the image.
    
    |
 
@@ -68,7 +66,9 @@ the other members of the laboratory who have viewed the image and applied their 
 	   
    |
 
-#.  Clicking the **Saved By** icon provides a list of user names who have viewed the image.
+2.  Clicking the **Saved By** icon provides a list of user names who have viewed the image.
+
+   **Please note:** that the **Saved By** list will only be populated if other members of your laboratory group have viewed that image.
    
    |
 
@@ -78,10 +78,7 @@ the other members of the laboratory who have viewed the image and applied their 
 	   
    |   
    
-   .. note:: **Please note** that the **Saved By** list will only be populated if other members of your laboratory group have viewed that image.
-   
-   
-#. Clicking on the different names in the list allows you to view your image with the rendering settings used by that user. 
+3. Clicking on the different names in the list allows you to view your image with the rendering settings used by that user. 
 
    |
 
@@ -91,9 +88,7 @@ the other members of the laboratory who have viewed the image and applied their 
 
    |   
    
-    
-   
-#. To save the rendering settings of someone who has viewed your image you may click on the **save the current settings** icon. 
+4. To save the rendering settings of someone who has viewed your image you may click on the **save the current settings** icon. 
 
    OMERO also provides the ability to copy and paste rendering settings of an image across  multiple images. This is described in the copy and paste rendering settings in Viewing images. 
 
