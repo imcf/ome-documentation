@@ -99,7 +99,7 @@ It is possible to:
 Copy and paste rendering settings
 ---------------------------------
 
-To allow for the ease of use OMERO provides the ability to copy and paste rendering setting from one image to multiple images in a dataset. 
+OMERO provides the ability to copy and paste rendering setting from one image to multiple images in a dataset. 
 To do this the following steps are necessary. 
 
    |
@@ -115,14 +115,16 @@ To do this the following steps are necessary.
    |
    
    
-#. Click on the **Saved By** icon to display the rendering controls. 
+#. Click on the **Display rendering settings** icon to show the rendering controls. 
  
-   Changes can be made to the rendering settings to the image, saved and then the rendering settings can be copied. 
+   Changes can be made to the rendering settings to the image and saved. 
+   
+   The rendering settings can be copied by clicking the icon **Copy the rendering settings**. 
   
    
    |
 
-   .. image:: /images/insight-copy-renderingsettings2.png
+   .. image:: /images/insight-copy-renderingsettings2v2.png
        :align: center
        :width: 65%
 	   
@@ -130,8 +132,12 @@ To do this the following steps are necessary.
    
    
 #. Now select a group of image that **ALL** have the same channel settings as the image edited in step two. 
+
+   Now via the shift key you may select multiple images and then with a right click on the mouse button you may choose from the menu list the **Paste settings** option.
+   
+   This will now copy the rendering settings of the image edited in step two and apply them to the selected images. 
   
-   .. note:: **Please note** that for the copy and paste settings to work the pasting of the rendering settings **must be** with images that have the same channel settings as the original image.
+   .. note:: **Please note:** for the copy and paste settings function to complete when paste of the rendering settings **must be** with images that have the same channel settings as the original image.
    
    
    |
@@ -142,3 +148,4 @@ To do this the following steps are necessary.
 
    |
    
+#. When the rendering settings have been pasted the settings are applied across all of the images.  
