@@ -225,10 +225,7 @@ Feedback
 --------
 
 As always, contributions of sample data will help to ensure that
-OMERO accurately supports a wide range of formats, and any
-contributions you may wish to make are always welcome by contacting us
-on our :forum:`User Discussion forum <viewforum.php?f=4>`, or our
-:mailinglist:`user mailing list <ome-users/>`.
+OMERO accurately supports a wide range of formats.
 
-If an error occurs, we strongly encourage users to submit the files alongside the error
-so we can improve the quality and reliability of the software.
+If an error occurs, the IMCF strongly encourage users to submit the files alongside the error
+so the OME project can improve the quality and reliability of the software.
