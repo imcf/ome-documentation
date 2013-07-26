@@ -1,5 +1,5 @@
-Getting started with OMERO clients
-==================================
+Getting started with OMERO at the Biozentrum
+============================================
 
 OMERO.insight
 -------------
@@ -8,8 +8,8 @@ Logging in
 ^^^^^^^^^^
 
 The IMCF will provide you with your login details
-username, a password and the address of the OMERO server where your data
-will be stored. The Biozentrum allows you to use your usual University username and password. The
+the address of the OMERO server where your data
+will be stored is provided below. The
 authentication connection to the server is ALWAYS secured.
 
 .. figure:: /images/omero_insight_4_5_login.png
