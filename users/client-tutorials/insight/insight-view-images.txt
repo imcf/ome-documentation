@@ -135,9 +135,9 @@ To do this the following steps are necessary.
 
    Now via the shift key you may select multiple images and then with a right click on the mouse button you may choose from the menu list the **Paste settings** option.
    
-   This will now copy the rendering settings of the image edited in step two and apply them to the selected images. 
+   This will now copy the rendering settings of the image edited in step two and apply the image aquistion settings to the selected images. 
   
-   .. note:: **Please note:** for the copy and paste settings function to complete when paste of the rendering settings **must be** with images that have the same channel settings as the original image.
+   .. note:: **Please note:** for the copy and paste settings function the image aquistion settings (e.g. Z and t section and number of channels) **must be**  the same as the original image.
    
    
    |
