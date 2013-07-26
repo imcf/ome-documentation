@@ -84,7 +84,7 @@ the other members of the laboratory who have viewed the image and applied their 
 
    .. image:: /images/insight-collab-renderingsettings3.png
        :align: center
-       :width: 65%
+       :width: 100%
 
    |   
    
