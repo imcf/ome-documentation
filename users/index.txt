@@ -2,6 +2,15 @@
 User Documentation
 ##################
 
+.. sidebar:: OMERO.insight getting started guides
+
+	 :download:`OMERO Insight Getting Started Guide-Deutsch Version.pdf <../downloads/OMERO-Insight-Getting-Started-Guide-DeutschVersion.pdf>`.
+	 
+	 :download:`OMERO Insight Getting Started Guide-Version Francaise.pdf <../downloads/OMERO-Insight-Getting-Started-Guide-VersionFrancaise.pdf>`.
+	   
+	 :download:`OMERO Insight Getting Started Guide-English Version.pdf <../downloads/OMERO-Insight-Getting-Started-Guide-EnglishVersion.pdf>`.
+   
+   
 ************
 Introduction
 ************
@@ -14,9 +23,9 @@ Introduction
     client-overview
     community-resources
 
-**********
-Quickstart
-**********
+*******************
+Logging into OMERO
+*******************
 
 .. toctree::
     :maxdepth: 1
@@ -56,7 +65,7 @@ OMERO and ImageJ
 Movie guides
 ************
 
-- :feature_plone:`The OMERO features page includes movie tutorials for many OMERO features<>`
+- :feature_plone:`Movie tutorials for many OMERO features<>`
 
 
 
