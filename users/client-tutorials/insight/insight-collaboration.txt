@@ -56,13 +56,13 @@ the other members of the laboratory who have viewed the image and applied their 
 
 1. Click on an image to open the image viewer. 
 
-   Under the settings tab click on the **Saved By** icon to display the rendering controls. 
+   Under the **Settings** tab click on the **Saved By** icon to display the rendering controls. 
    
    |
 
    .. image:: /images/insight-collab-renderingsettings1.png
        :align: center
-       :width: 85%	   
+       :width: 95%	   
 	   
    |
 
@@ -98,7 +98,7 @@ the other members of the laboratory who have viewed the image and applied their 
 
    .. image:: /images/insight-collab-renderingsettings4.png
        :align: center
-       :width: 75%
+       :width: 85%
 
 
    |  

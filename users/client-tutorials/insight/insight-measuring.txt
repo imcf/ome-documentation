@@ -20,7 +20,7 @@ Manage the Regions of Interest.
 
 .. figure:: /images/insight-measurements-2manage-roi.png
    :align: center
-   :width: 35%
+   :width: 65%
    :alt: OMERO.insight ROI manager
 
 Intensity values histograms of the intensity of pixels contained in the
@@ -28,12 +28,12 @@ Regions Of Interest
 
 .. figure:: /images/insight-measurements-3graph.png
    :align: center
-   :width: 35%
+   :width: 65%
    :alt: OMERO.insight intensity histogram
 
 Basic statistics.
 
 .. figure:: /images/insight-measurements-4stats.png
    :align: center
-   :width: 35%
+   :width: 65%
    :alt: OMERO.insight measurement statistics

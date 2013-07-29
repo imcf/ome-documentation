@@ -144,8 +144,8 @@ To do this the following steps are necessary.
 
    .. image:: /images/insight-copy-renderingsettings4.png
        :align: center
-       :width: 65%
+       :width: 85%
 
    |
    
-#. When the rendering settings have been pasted the settings are applied across all of the images.  
+#. When the rendering settings have been pasted the image aquistion settings are applied across all of the images.  

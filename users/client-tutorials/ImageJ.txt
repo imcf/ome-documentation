@@ -36,7 +36,7 @@ This guide assumes you have never installed ImageJ before.
    |
 
    .. image:: /images/tutor/imageJPlugins.jpg
-       :width: 70%
+       :width: 80%
        :align: center
 
    |

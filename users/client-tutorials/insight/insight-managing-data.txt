@@ -120,7 +120,7 @@ How to add, view metadata
 -  Go to the Metadata Browser i.e. Right-hand side.
 
 .. figure:: /images/insight-data-manager-8metadata.png
-    :width: 55%
+    :width: 75%
     :align: center
     :alt: The metadata browser
 
@@ -172,7 +172,7 @@ Full text searching. You can also use wild-cards in your search e.g.
 \*.dv will find all files ending with '.dv'.
 
 .. figure:: /images/insight-data-manager-12search.png
-    :width: 55%
+    :width: 85%
     :align: center
     :alt: Searching
 
