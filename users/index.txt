@@ -2,6 +2,7 @@
 User Documentation
 ##################
 
+	   
 .. sidebar:: OMERO.insight getting started guides
 
 	 :download:`OMERO Insight Getting Started Guide-Deutsch Version.pdf <../downloads/OMERO-Insight-Getting-Started-Guide-DeutschVersion.pdf>`.
@@ -10,7 +11,7 @@ User Documentation
 	   
 	 :download:`OMERO Insight Getting Started Guide-English Version.pdf <../downloads/OMERO-Insight-Getting-Started-Guide-EnglishVersion.pdf>`.
    
-   
+      
 ************
 Introduction
 ************
@@ -68,4 +69,14 @@ Movie guides
 - :feature_plone:`Movie tutorials for many OMERO features<>`
 
 
+ 
+   |
 
+   .. image:: /images/BzLogo.png
+       :width: 25%
+	   
+	   
+   .. image:: /images/OmeLogo.png
+	   :width: 35%
+
+   |  
