@@ -205,7 +205,7 @@ rst_epilog = """
 .. |BlitzGateway| replace:: :doc:`/developers/Python`
 .. |DevelopingOmeroClients| replace:: :doc:`/developers/GettingStarted/AdvancedClientDevelopment`
 """
-rst_epilog += """.. |previousversion| replace:: %s""" % previousversion
+# edit rst_epilog += """.. |previousversion| replace:: %s""" % previousversion
 
 # -- Options for HTML output ---------------------------------------------------
 
