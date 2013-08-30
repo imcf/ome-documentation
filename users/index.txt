@@ -5,7 +5,7 @@ User Documentation
 	   
 .. sidebar:: OMERO.insight getting started guides
 
-	 :download:`OMERO Insight Getting Started Guide-Deutsch Version.pdf <../downloads/OMERO-Insight-Getting-Started-Guide-DeutschVersion.pdf>`.
+	 :download:`extra OMERO Insight Getting Started Guide-Deutsch Version.pdf <../downloads/OMERO-Insight-Getting-Started-Guide-DeutschVersion.pdf>`.
 	 
 	 :download:`OMERO Insight Getting Started Guide-Version Francaise.pdf <../downloads/OMERO-Insight-Getting-Started-Guide-VersionFrancaise.pdf>`.
 	   
