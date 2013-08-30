@@ -251,8 +251,8 @@ html_last_updated_fmt = '%b %d, %Y'
 #html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
-html_sidebars = { '**' : ['globalomerotoc.html', 'pagetoc.html',
-'relations.html', 'searchbox.html', 'sourcelink.html'] }
+html_sidebars = { '**' : ['pagetoc.html','relations.html', 'searchbox.html', 'sourcelink.html'] }
+#'globalomerotoc.html', 
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
@@ -311,7 +311,7 @@ latex_elements = {
 # target = project + '-' + release + '.tex'
 # latex_documents = [
 #  (master_doc, target, title, author, 'manual'),
-#]
+]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
