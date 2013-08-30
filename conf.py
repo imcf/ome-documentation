@@ -51,7 +51,7 @@ copyright = u'2000-2012, ' + author
 # built documents.
 #
 
-if "OMERO_RELEASE" in os.environ:
+#if "OMERO_RELEASE" in os.environ:
     release = os.environ.get('OMERO_RELEASE')
     split_release =  re.split("^([0-9]\.[0-9])(\.[0-9]+)(.*?)$",release)
     # The short X.Y version.
@@ -59,7 +59,7 @@ if "OMERO_RELEASE" in os.environ:
     previousversion = version[:-1] + str(int(version[-1])-1)
     if not release[-1] == "0":
         tags.add('point_release')
-else:
+#else:
     version = 'UNKNOWN'
     previousversion = 'UNKNOWN'
     release = 'UNKNOWN'
