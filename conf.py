@@ -308,7 +308,7 @@ latex_elements = {
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
-target = project + '-' + release + '.tex'
+# target = project + '-' + release + '.tex'
 latex_documents = [
   (master_doc, target, title, author, 'manual'),
 ]
