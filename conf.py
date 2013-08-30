@@ -311,7 +311,7 @@ latex_elements = {
 # target = project + '-' + release + '.tex'
 # latex_documents = [
 #  (master_doc, target, title, author, 'manual'),
-]
+# ]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
