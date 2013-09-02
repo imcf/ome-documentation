@@ -1,7 +1,7 @@
 Collaborating with data
 =======================
 
-OMERO.insight facilitates collaboration by allowing you to view your image data with other users in the group.
+OMERO.insight facilitates collaboration by allowing you to share your image data with other users in the group.
 
 
 Viewing group members data
@@ -46,6 +46,8 @@ Viewing group members data
 
    |
 
+   You now have access to this user's data. 
+
 Viewing rendering settings by group members
 -------------------------------------------
 
@@ -56,7 +58,7 @@ the other members of the laboratory who have viewed the image and applied their 
 
 1. Click on an image to open the image viewer. 
 
-   Under the **Settings** tab click on the **Saved By** icon to display the rendering controls. 
+   Under the **Settings** tab click on the **Saved By** icon to display the rendering settings. 
    
    |
 

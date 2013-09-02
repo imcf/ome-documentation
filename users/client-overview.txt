@@ -4,18 +4,18 @@ OMERO clients overview
 Most laboratories use a number of different imaging platforms and thus
 require tools to manage, visualise and analyse heterogeneous sets of
 image data recorded in a range of file formats. OMERO provides a single 
-application, running on a user's laptop or workstation, that can access
+application, running on a user's laptop or workstation, which can access
 all sets of data, and provide easy-to-use access to this data.
 
-OMERO provides a central storage server application called the *OMERO.server* 
-(the OMERO server is located at the Biozentrum) and a series of clients, the client readily available to
-users at the Biozentrum is *OMERO.insight*.
+OMERO provides a central storage server application called the **OMERO.server**
+(the OMERO server is located at the Biozentrum) and a series of clients. The client readily available to
+users at the Biozentrum is **OMERO.insight**.
 All the OMERO clients run on the major operating systems (Windows, Apple, and Linux) and provide image visualisation,
 management, and annotation to users from remote locations. With a large number of OMERO.server installations worldwide, OMERO has been shown to be
-relatively easy to install and get running.
+easy to install and get running.
 
-*OMERO.clients* is the collective term for the OME applications that allows
-users access to their data in the *OMERO.server*. 
+**OMERO.clients** is the collective term for the OME applications that allows
+users access to their data in the **OMERO.server**. 
 
 OMERO.insight are desktop applications written in Java
 and require Java 1.5 (or higher) to be installed on the user's computer
@@ -54,11 +54,9 @@ and require Java 1.5 (or higher) to be installed on the user's computer
 OMERO.insight
 -------------
 
-OMERO.insight provides a number of tools for accessing and using data in an
-OMERO Server. The figure :ref:`omero_insight_4_4_viewer` presents the
-OMERO.insight image viewer, whereas figure :ref:`omero_insight_screenshot_4_4`
-presents the user interface [1]_ [2]_. To find out more, see
-:doc:`clients-getting-started`.
+OMERO.insight provides a number of tools for accessing and using data in an OMERO Server. 
+The figure :ref:`omero_insight_4_4_viewer` presents the OMERO.insight image viewer, whereas figure :ref:`omero_insight_screenshot_4_4`
+presents the user interface [1]_ [2]_. To find out more, see :doc:`clients-getting-started`.
 
 .. _omero_insight_4_4_viewer:
 .. figure:: /images/omero_insight_4_4_viewer.png
@@ -110,8 +108,7 @@ image files to an OMERO Server. For a full tutorial, please see
 :doc:`client-tutorials/insight/insight-import`.
 
 The tool uses Bio-Formats for translation of proprietary file formats in
-preparation for upload to an OMERO Server. Visit 
-:bf_doc:`Supported Formats <supported-formats.html>`
+preparation for upload to an OMERO Server. Visit :bf_doc:`Supported Formats <supported-formats.html>`
 for a detailed list of supported formats.
 
 .. figure:: /images/omero_importer_4_4.png
